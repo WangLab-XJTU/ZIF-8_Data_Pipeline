@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_layer_1" data-name="layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 735.38 379.94">
+  <defs>
+    <linearGradient id="_sr" data-name="sr" x1="564.13" y1="220.9" x2="588.68" y2="220.9" gradientTransform="translate(146.2 588.93) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7cc490"/>
+      <stop offset=".27" stop-color="#37b576"/>
+      <stop offset=".5" stop-color="#00aa61"/>
+      <stop offset=".57" stop-color="#00a75c"/>
+      <stop offset="1" stop-color="#009945"/>
+    </linearGradient>
+    <linearGradient id="_sy" data-name="sy" x1="483.39" y1="-83.13" x2="511.88" y2="-83.13" gradientTransform="translate(146.2 588.93) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fef9e5"/>
+      <stop offset="0" stop-color="#fcf1c9"/>
+      <stop offset="0" stop-color="#f9e492"/>
+      <stop offset=".55" stop-color="#f2cf1f"/>
+      <stop offset=".65" stop-color="#f1cd17"/>
+      <stop offset="1" stop-color="#f1ca00"/>
+    </linearGradient>
+    <linearGradient id="_un_51" data-name="un 51" x1="483.39" y1="64.37" x2="511.88" y2="64.37" gradientTransform="translate(146.2 588.93) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fef9e5"/>
+      <stop offset="0" stop-color="#fcf1c9"/>
+      <stop offset="0" stop-color="#f9e492"/>
+      <stop offset=".55" stop-color="#f2cf1f"/>
+      <stop offset=".65" stop-color="#f1cd17"/>
+      <stop offset="1" stop-color="#f1ca00"/>
+    </linearGradient>
+    <linearGradient id="_un_51-2" data-name="un 51" y1="221.37" y2="221.37" xlink:href="#_un_51"/>
+    <linearGradient id="_un_51-3" data-name="un 51" y1="373.62" y2="373.62" xlink:href="#_un_51"/>
+    <linearGradient id="_un_51-4" data-name="un 51" y1="525.87" y2="525.87" xlink:href="#_un_51"/>
+    <linearGradient id="_un_150" data-name="un 150" x1="349.13" y1="453.77" x2="414.73" y2="453.77" gradientTransform="translate(218.04 -246.77)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e69c77"/>
+      <stop offset=".08" stop-color="#e28e67"/>
+      <stop offset=".22" stop-color="#df7e55"/>
+      <stop offset=".37" stop-color="#dc744a"/>
+      <stop offset=".53" stop-color="#dc7147"/>
+      <stop offset=".73" stop-color="#db6e45"/>
+      <stop offset=".83" stop-color="#da673f"/>
+      <stop offset=".91" stop-color="#d75935"/>
+      <stop offset=".98" stop-color="#d44727"/>
+      <stop offset="1" stop-color="#d34022"/>
+    </linearGradient>
+    <linearGradient id="_un_145" data-name="un 145" x1="350.13" y1="140.85" x2="413.73" y2="140.85" gradientTransform="translate(-94.89 66.15)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d34022"/>
+      <stop offset=".01" stop-color="#d34425"/>
+      <stop offset=".09" stop-color="#d75834"/>
+      <stop offset=".18" stop-color="#da663f"/>
+      <stop offset=".28" stop-color="#db6e45"/>
+      <stop offset=".47" stop-color="#dc7147"/>
+      <stop offset=".62" stop-color="#dd784f"/>
+      <stop offset=".85" stop-color="#e28c65"/>
+      <stop offset="1" stop-color="#e69c77"/>
+    </linearGradient>
+    <linearGradient id="_un_145-2" data-name="un 145" y1="273.02" y2="273.02" gradientTransform="translate(37.29 -66.02)" xlink:href="#_un_145"/>
+    <linearGradient id="_un_185" data-name="un 185" x1="209.5" y1="-36.36" x2="414.63" y2="-36.36" gradientTransform="translate(146.2 588.93) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6dc6d3"/>
+      <stop offset=".2" stop-color="#37b8c8"/>
+      <stop offset=".41" stop-color="#00aabe"/>
+      <stop offset=".43" stop-color="#00a8b8"/>
+      <stop offset=".5" stop-color="#00a3a7"/>
+      <stop offset=".58" stop-color="#00a09b"/>
+      <stop offset=".7" stop-color="#009e94"/>
+      <stop offset="1" stop-color="#009e93"/>
+    </linearGradient>
+    <linearGradient id="_un_80" data-name="un 80" x1="339.63" y1="-17.13" x2="413.63" y2="-17.13" gradientTransform="translate(-247.57 229.43)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d7e4f5"/>
+      <stop offset=".5" stop-color="#bad1ed"/>
+      <stop offset=".57" stop-color="#b5ceeb"/>
+      <stop offset="1" stop-color="#9ec0e6"/>
+    </linearGradient>
+    <linearGradient id="_sy" data-name="sy" x1="271.5" y1="-16.88" x2="339.13" y2="-16.88" gradientTransform="translate(146.2 588.93) rotate(-90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fef9e5"/>
+      <stop offset=".53" stop-color="#fcf0c6"/>
+      <stop offset="1" stop-color="#fbe5b6"/>
+    </linearGradient>
+    <linearGradient id="_un_168" data-name="un 168" x1="210.63" y1="114.84" x2="298.63" y2="114.84" gradientTransform="translate(6.4 219.46)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eae3f1"/>
+      <stop offset=".5" stop-color="#d8cae3"/>
+      <stop offset=".74" stop-color="#d3c3df"/>
+      <stop offset="1" stop-color="#cbb7d8"/>
+    </linearGradient>
+    <linearGradient id="_un_168-2" data-name="un 168" y1="183.84" y2="183.84" gradientTransform="translate(75.4 150.46)" xlink:href="#_un_168"/>
+    <linearGradient id="_un_168-3" data-name="un 168" x1="210.5" y1="253.15" x2="298.5" y2="253.15" gradientTransform="translate(144.85 81.29)" xlink:href="#_un_168"/>
+    <linearGradient id="_un_168-4" data-name="un 168" x1="210.5" y1="322.09" x2="298.5" y2="322.09" gradientTransform="translate(213.8 12.34)" xlink:href="#_un_168"/>
+    <linearGradient id="_un_168-5" data-name="un 168" x1="210.5" y1="391.04" x2="298.5" y2="391.04" gradientTransform="translate(282.74 -56.61)" xlink:href="#_un_168"/>
+    <linearGradient id="_un_168-6" data-name="un 168" x1="210.5" y1="459.99" x2="298.5" y2="459.99" gradientTransform="translate(351.69 -125.56)" xlink:href="#_un_168"/>
+  </defs>
+  <rect x="277.2" y=".25" width="179.8" height="24.55" fill="url(#_sr)" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+  <text transform="translate(323.96 17.35)" fill="#231815" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">Scientific Paper</tspan></text>
+  <g>
+    <rect x=".25" y="77.05" width="125.63" height="28.5" fill="url(#_sy)" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+    <text transform="translate(27.88 96.8)" font-family="ArialMT, Arial" font-size="12.51"><tspan x="0" y="0">Paragraph 1</tspan></text>
+  </g>
+  <g>
+    <rect x="147.75" y="77.05" width="125.63" height="28.5" fill="url(#_un_51)" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+    <text transform="translate(180.02 94.69)" fill="#231815" font-family="ArialMT, Arial" font-size="12.51"><tspan x="0" y="0">Paragraph 2</tspan></text>
+  </g>
+  <g>
+    <rect x="304.75" y="77.05" width="125.63" height="28.5" fill="url(#_un_51-2)" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+    <text transform="translate(332.08 95.98)" fill="#231815" font-family="ArialMT, Arial" font-size="12.51"><tspan x="0" y="0">Paragraph 3</tspan></text>
+  </g>
+  <g>
+    <rect x="457" y="77.05" width="125.63" height="28.5" fill="url(#_un_51-3)" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+    <text transform="translate(484.04 94.62)" fill="#231815" font-family="ArialMT, Arial" font-size="12.51"><tspan x="0" y="0">Paragraph 4</tspan></text>
+  </g>
+  <g>
+    <rect x="609.25" y="77.05" width="125.63" height="28.5" fill="url(#_un_51-4)" stroke="#000" stroke-miterlimit="10" stroke-width=".5"/>
+    <text transform="translate(640.54 94.62)" fill="#231815" font-family="ArialMT, Arial" font-size="12.51"><tspan x="0" y="0">Paragraph 5</tspan></text>
+  </g>
+  <path d="M63.07,50.3h609H63.07Z" fill="#231815" stroke="#231815" stroke-miterlimit="10"/>
+  <path d="M63.07,131.05h609H63.07Z" fill="#231815" stroke="#231815" stroke-miterlimit="10"/>
+  <path d="M367.57,24.8v25.5-25.5Z" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+  <g>
+    <polyline points="63.07 75.8 63.07 50.3 63.07 68.74" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+    <polygon points="63.07 75.8 59 65.85 63.07 68.21 67.13 65.85 63.07 75.8" fill="#231815"/>
+  </g>
+  <g>
+    <polyline points="215.32 75.8 215.32 50.3 215.32 68.74" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+    <polygon points="215.32 75.8 211.25 65.85 215.32 68.21 219.38 65.85 215.32 75.8" fill="#231815"/>
+  </g>
+  <g>
+    <polyline points="367.57 75.8 367.57 50.3 367.57 68.74" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+    <polygon points="367.57 75.8 363.5 65.85 367.57 68.21 371.63 65.85 367.57 75.8" fill="#231815"/>
+  </g>
+  <g>
+    <polyline points="519.82 75.8 519.82 50.3 519.82 68.74" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+    <polygon points="519.82 75.8 515.75 65.85 519.82 68.21 523.88 65.85 519.82 75.8" fill="#231815"/>
+  </g>
+  <g>
+    <polyline points="472.82 156.8 472.82 131.3 472.82 149.74" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+    <polygon points="472.82 156.8 468.75 146.85 472.82 149.21 476.88 146.85 472.82 156.8" fill="#231815"/>
+  </g>
+  <g>
+    <polyline points="672.07 75.8 672.07 50.3 672.07 68.74" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+    <polygon points="672.07 75.8 668 65.85 672.07 68.21 676.13 65.85 672.07 75.8" fill="#231815"/>
+  </g>
+  <path d="M63.07,131.05v-25.5,25.5Z" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+  <path d="M215.32,131.05v-25.5,25.5Z" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+  <path d="M367.57,131.05v-25.5,25.5Z" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+  <path d="M519.82,131.05v-25.5,25.5Z" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+  <path d="M672.07,131.05v-25.5,25.5Z" fill="none" stroke="#231815" stroke-miterlimit="10"/>
+  <g>
+    <polyline points="731.88 254.3 734.88 254.3 734.88 251.3" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="734.88" y1="245.33" x2="734.88" y2="164.78" fill="none" stroke="#000" stroke-dasharray="5.97 5.97" stroke-miterlimit="10"/>
+    <polyline points="734.88 161.8 734.88 158.8 731.88 158.8" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="725.81" y1="158.8" x2="219.1" y2="158.8" fill="none" stroke="#000" stroke-dasharray="6.07 6.07" stroke-miterlimit="10"/>
+    <polyline points="216.07 158.8 213.07 158.8 213.07 161.8" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="213.07" y1="167.76" x2="213.07" y2="248.31" fill="none" stroke="#000" stroke-dasharray="5.97 5.97" stroke-miterlimit="10"/>
+    <polyline points="213.07 251.3 213.07 254.3 216.07 254.3" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <line x1="222.13" y1="254.3" x2="728.85" y2="254.3" fill="none" stroke="#000" stroke-dasharray="6.07 6.07" stroke-miterlimit="10"/>
+  </g>
+  <rect x="425.22" y="69.64" width="95.5" height="521.82" transform="translate(142.43 803.52) rotate(-90)" fill="none" stroke="#000" stroke-miterlimit="10"/>
+  <rect x="567.18" y="152.41" width="65.59" height="109.18" transform="translate(392.97 806.97) rotate(-90)" fill="url(#_un_150)" stroke="#000" stroke-miterlimit="10"/>
+  <g>
+    <rect x="255.25" y="152.41" width="63.59" height="109.18" transform="translate(80.04 494.05) rotate(-90)" fill="url(#_un_145)" stroke="#000" stroke-miterlimit="10"/>
+    <rect x="387.43" y="152.41" width="63.59" height="109.18" transform="translate(212.22 626.22) rotate(-90)" fill="url(#_un_145-2)" stroke="#000" stroke-miterlimit="10"/>
+    <text transform="translate(259.93 196.44)" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">Synthesis</tspan><tspan x="-2.09" y="15">Paragraph</tspan><tspan x="25.36" y="30">I</tspan></text>
+    <text transform="translate(392.1 196.44)" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">Synthesis</tspan><tspan x="-2.09" y="15">Paragraph</tspan><tspan x="23.62" y="30">II</tspan></text>
+  </g>
+  <text transform="translate(553.44 197.44)" fill="#231815" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">Characterization</tspan><tspan x="16.32" y="15">Paragraph</tspan><tspan x="43.77" y="30">I</tspan></text>
+  <g>
+    <circle cx="492.55" cy="208.58" r="1.72" fill="#231815" stroke="#000" stroke-miterlimit="10"/>
+    <circle cx="502.85" cy="208.58" r="1.72" fill="#231815" stroke="#000" stroke-miterlimit="10"/>
+    <circle cx="483.28" cy="208.58" r="1.72" fill="#231815" stroke="#000" stroke-miterlimit="10"/>
+  </g>
+  <g>
+    <circle cx="675.27" cy="208.58" r="1.72" fill="#231815" stroke="#000" stroke-miterlimit="10"/>
+    <circle cx="685.57" cy="208.58" r="1.72" fill="#231815" stroke="#000" stroke-miterlimit="10"/>
+    <circle cx="666" cy="208.58" r="1.72" fill="#231815" stroke="#000" stroke-miterlimit="10"/>
+  </g>
+  <g>
+    <circle cx="666.27" cy="337.58" r="1.72" fill="#231815" stroke="#000" stroke-miterlimit="10"/>
+    <circle cx="676.57" cy="337.58" r="1.72" fill="#231815" stroke="#000" stroke-miterlimit="10"/>
+    <circle cx="657" cy="337.58" r="1.72" fill="#231815" stroke="#000" stroke-miterlimit="10"/>
+  </g>
+  <polygon points="175.12 379.43 176.12 317.43 81.12 317.43 81.34 245.87 81.57 174.3 72.07 174.3 62.57 174.3 53.07 174.3 43.57 174.3 43.57 225.55 43.57 276.8 43.57 328.05 43.57 379.3 53.07 379.3 62.57 379.3 118.84 379.37 175.12 379.43" fill="url(#_un_185)" stroke="#000" stroke-miterlimit="10"/>
+  <rect x="92.07" y="165.3" width="74" height="94" transform="translate(-83.23 341.36) rotate(-90)" fill="url(#_un_80)" stroke="#000" stroke-miterlimit="10"/>
+  <polygon points="176.57 317.43 176.57 283.62 176.57 249.8 129.32 249.8 82.07 249.8 82.07 283.62 82.07 317.43 129.32 317.43 176.57 317.43" fill="url(#_sy)" stroke="#000" stroke-miterlimit="10"/>
+  <text transform="translate(69.57 349.59) rotate(-90)" fill="#231815" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">Large Language Model</tspan></text>
+  <text transform="translate(115.87 208.02)" fill="#231815" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">User </tspan><tspan x="-6.95" y="15">Prompt</tspan></text>
+  <text transform="translate(108.23 280.27)" fill="#231815" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">System </tspan><tspan x=".69" y="15">Prompt</tspan></text>
+  <g>
+    <line x1="211.57" y1="208.3" x2="185.6" y2="208.3" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M179.57,208.3c2.84-1.05,6.36-2.85,8.55-4.76l-1.72,4.76,1.72,4.75c-2.18-1.9-5.71-3.7-8.55-4.75Z"/>
+  </g>
+  <g>
+    <line x1="178.57" y1="344.3" x2="201.53" y2="344.3" fill="none" stroke="#000" stroke-miterlimit="10"/>
+    <path d="M207.57,344.3c-2.84,1.05-6.36,2.85-8.55,4.76l1.72-4.76-1.72-4.75c2.18,1.9,5.71,3.7,8.55,4.75Z"/>
+  </g>
+  <path d="M217.04,299.82h88v33.45c0,19.59-15.91,35.5-35.5,35.5h-52.5v-68.95h0Z" transform="translate(-73.26 595.34) rotate(-90)" fill="url(#_un_168)" stroke="#000" stroke-miterlimit="10"/>
+  <path d="M286.04,299.82h88v33.45c0,19.59-15.91,35.5-35.5,35.5h-52.5v-68.95h0Z" transform="translate(-4.26 664.34) rotate(-90)" fill="url(#_un_168-2)" stroke="#000" stroke-miterlimit="10"/>
+  <path d="M355.34,299.96h88v33.45c0,19.59-15.91,35.5-35.5,35.5h-52.5v-68.95h0Z" transform="translate(64.91 733.78) rotate(-90)" fill="url(#_un_168-3)" stroke="#000" stroke-miterlimit="10"/>
+  <path d="M424.29,299.96h88v33.45c0,19.59-15.91,35.5-35.5,35.5h-52.5v-68.95h0Z" transform="translate(133.86 802.73) rotate(-90)" fill="url(#_un_168-4)" stroke="#000" stroke-miterlimit="10"/>
+  <path d="M493.24,299.96h88v33.45c0,19.59-15.91,35.5-35.5,35.5h-52.5v-68.95h0Z" transform="translate(202.81 871.68) rotate(-90)" fill="url(#_un_168-5)" stroke="#000" stroke-miterlimit="10"/>
+  <path d="M562.19,299.96h88v33.45c0,19.59-15.91,35.5-35.5,35.5h-52.5v-68.95h0Z" transform="translate(271.76 940.62) rotate(-90)" fill="url(#_un_168-6)" stroke="#000" stroke-miterlimit="10"/>
+  <text transform="translate(237.77 323.93)" fill="#231815" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">Solvent</tspan></text>
+  <text transform="translate(304.57 323.93)" fill="#231815" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">Chemical</tspan><tspan x="24.31" y="15">I</tspan></text>
+  <text transform="translate(372.63 325.57)" fill="#231815" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">Chemical</tspan><tspan x="22.58" y="15">II</tspan></text>
+  <text transform="translate(437.74 325.93)" fill="#231815" font-family="ArialMT, Arial" font-size="11"><tspan x="0" y="0" letter-spacing="-.11em">T</tspan><tspan x="5.5" y="0">emperature</tspan></text>
+  <text transform="translate(523.96 323.93)" fill="#231815" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0" letter-spacing="-.04em">T</tspan><tspan x="7.17" y="0" letter-spacing="0em">ime</tspan></text>
+  <text transform="translate(586.7 324.93)" fill="#231815" font-family="ArialMT, Arial" font-size="12.5"><tspan x="0" y="0">Formula</tspan></text>
+</svg>

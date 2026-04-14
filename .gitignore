@@ -1,0 +1,4 @@
+.env
+useful_data.xlsx
+__pycache__/
+*.py[cod]
